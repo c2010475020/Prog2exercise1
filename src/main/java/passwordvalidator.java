@@ -1,3 +1,4 @@
+//Mit Hilfe von Walid Al Aswad und Kenbi Fakhreddine 
 public class passwordvalidator {
 
     public static boolean checkPassword(String password){
