@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
-
+//mit Hilfe von Walid Al Aswad und Kenbi Fakhreddine
 
 class passwordvalidatorTest {
     @Test
